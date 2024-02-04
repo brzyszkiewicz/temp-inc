@@ -7,6 +7,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.function.Function;
 
-public interface AnomalyDetector extends Function<List<TemperatureReading>, Optional<Anomaly>> {
+public interface AnomalyDetector extends Function<List<TemperatureReading>, List<Anomaly>> {
 
 }
