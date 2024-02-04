@@ -1,4 +1,4 @@
-package io.kontakt.apps.temperature.generator;
+package io.kontak.apps.temperature.generator;
 
 import io.kontak.apps.temperature.generator.TemperatureGeneratorApplication;
 import org.springframework.boot.test.context.SpringBootTest;
